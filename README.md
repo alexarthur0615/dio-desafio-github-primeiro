@@ -1,2 +1,4 @@
 # dio-desafio-github-primeiro
-desafio dio git/github
+desafio 
+desafio criado para o curso da DIO
+
